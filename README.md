@@ -66,7 +66,7 @@ lab.local
 
 Full project documentation is available in this repository:
 
-Active-Directory-Home-Lab.pdf
+[Active Directory Home Lab Documentation](documentation/Active-Directory-Home-Lab.pdf)
 
 ---
 
@@ -76,28 +76,27 @@ Example steps from the lab:
 
 ### Domain Controller Setup
 
-![Server Manager](01-server-manager-clean-install.png)
+![Server Manager](screenshots/01-server-manager-clean-install.png)
 
 ### Organizational Unit Structure
 
-![OU Structure](09-ou-structure.png)
+![OU Structure](screenshots/09-ou-structure.png)
 
 ### Domain Join
 
-![Domain Join](14-domain-join-configuration.png)
+![Domain Join](screenshots/14-domain-join-configuration.png)
 
 ### Domain User Login
 
-![User Login](16-domain-user-login.png)
+![User Login](screenshots/16-domain-user-login.png)
 
 ### File Share Access Test
 
-![Share Access](20-finance-share-access.png)
+![Share Access](screenshots/20-finance-share-access.png)
 
 ---
 
 ## Author
 
 Kelvin Jacob Marcar  
-IT Support / Cybersecurity Enthusiast
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/9f7ec02d-b9a9-441f-ab68-3b9749a52399" />
+IT Support Technician | CompTIA Security+ | Active Directory & Microsoft 365 Labs
